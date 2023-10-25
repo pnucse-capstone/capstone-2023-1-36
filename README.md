@@ -21,7 +21,7 @@
  - 분석을 위한 실험 환경 구성
 
 ## 구성도
-![image](https://github.com/pnucse-capstone/capstone-2023-1-36/assets/35690965/47c6d8d7-c0ce-4c58-9d3e-82441ad2fc55)
+![구성도](https://github.com/pnucse-capstone/capstone-2023-1-36/assets/35690965/3f52a7cf-5bd3-4ebc-9f52-02061edcfdcb)
 
 ## 소개 및 시연 영상
 
