@@ -24,7 +24,7 @@
 ![구성도](https://github.com/pnucse-capstone/capstone-2023-1-36/assets/35690965/3f52a7cf-5bd3-4ebc-9f52-02061edcfdcb)
 
 ## 소개 및 시연 영상
-
+[![소개 영상](https://img.youtube.com/vi/4jj3ru7f2EM/0.jpg)](https://www.youtube.com/watch?v=4jj3ru7f2EM)
 ## 사용법
 
 대상 키보드 모델 별로 `patched_src\` 디렉토리에 펌웨어 변조에 관련된 소스코드를, `scripts\` 디렉토리에 기타 펌웨어 분석에 관련된 소스코드를 두었습니다.
